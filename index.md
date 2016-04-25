@@ -5,7 +5,9 @@ layout: base
 
 ## Jours
 
-[Jour 00](pdfs/j00.pdf)
+| Jour | Contenu | PDF |
+|---|---|---|
+| 00 | shell | [pdf](pdfs/j00.pdf) |
 
 ## Projets
 
