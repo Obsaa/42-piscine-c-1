@@ -17,3 +17,7 @@ layout: base
 [Colle 00](pdfs/colle00.pdf)  
 [Colle 01](pdfs/colle01.pdf)  
 [Colle 02](pdfs/colle02.pdf)  
+
+## Annexes
+
+[Norme v1.8](norme42-v1.8.pdf)
