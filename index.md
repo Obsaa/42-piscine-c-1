@@ -8,6 +8,8 @@ layout: base
 | Jour | Contenu | PDF |
 |---|---|---|
 | 00 | shell | [pdf](pdfs/j00.pdf) |
+| 00 | shell | [pdf](pdfs/j00.pdf) |
+| 00 | shell | [pdf](pdfs/j00.pdf) |
 
 ## Projets
 
