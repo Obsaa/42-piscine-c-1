@@ -14,7 +14,7 @@ layout: base
 | [04](pdfs/j04.pdf) | algorithmie | 6/9 |
 | [05](pdfs/j05.pdf) | manipulation string | 14/20 |
 | [06](pdfs/j06.pdf) | libft and argc/argv | 3/4 |
-| [07](pdfs/j07.pdf) | - | - |
+| [07](pdfs/j07.pdf) | malloc | 1/7 |
 | [08](pdfs/j08.pdf) | - | - |
 
 ## Projets
