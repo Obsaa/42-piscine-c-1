@@ -12,8 +12,8 @@ layout: base
 | [02](pdfs/j02.pdf) | premier jour de c | 7/7 |
 | [03](pdfs/j03.pdf) | pointeurs | 8/9 |
 | [04](pdfs/j04.pdf) | algorithmie | 6/9 |
-| [05](pdfs/j05.pdf) | manipulation string | 14/20 |
-| [06](pdfs/j06.pdf) | libft and argc/argv | 3/4 |
+| [05](pdfs/j05.pdf) | manip de string | 14/20 |
+| [06](pdfs/j06.pdf) | libft + argc/argv | 3/4 |
 | [07](pdfs/j07.pdf) | malloc | 1/7 |
 | [08](pdfs/j08.pdf) | - | - |
 
