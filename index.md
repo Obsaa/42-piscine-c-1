@@ -5,14 +5,17 @@ layout: base
 
 ## Jours
 
-| Jour | Contenu | PDF |
+| Jour | Contenu | fait | 
 |---   |---      |---  |
-| 00 | shell | [pdf](pdfs/j00.pdf) |
-| 01 | shell | [pdf](pdfs/j01.pdf) |
-| 02 | premier jour de c | [pdf](pdfs/j02.pdf) |
-| 03 | pointeurs | [pdf](pdfs/j03.pdf) |
-| 04 | algorithmie | [pdf](pdfs/j04.pdf) |
-| 05 | reproduction string.h et + | [pdf](pdfs/j05.pdf) |
+| [00](pdfs/j00.pdf) | shell | - |
+| [01](pdfs/j01.pdf) | shell | - |
+| [02](pdfs/j02.pdf) | premier jour de c | 7/7 |
+| [03](pdfs/j03.pdf) | pointeurs | 8/9 |
+| [04](pdfs/j04.pdf) | algorithmie | 6/9 |
+| [05](pdfs/j05.pdf) | manipulation string | 14/20 |
+| [06](pdfs/j06.pdf) | libft and argc/argv | 3/4 |
+| [07](pdfs/j07.pdf) | - | - |
+| [08](pdfs/j08.pdf) | - | - |
 
 ## Projets
 
