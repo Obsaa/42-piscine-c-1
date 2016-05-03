@@ -14,8 +14,11 @@ layout: base
 | [04](pdfs/j04.pdf) | algorithmie | 6/9 |
 | [05](pdfs/j05.pdf) | manip de string | 14/20 |
 | [06](pdfs/j06.pdf) | libft + argc/argv | 3/4 |
-| [07](pdfs/j07.pdf) | malloc | 1/7 |
+| [07](pdfs/j07.pdf) | malloc | 4/7 |
 | [08](pdfs/j08.pdf) | - | - |
+| [09](pdfs/j09.pdf) | - | - |
+| [10](pdfs/j10.pdf) | - | - |
+| [11](pdfs/j11.pdf) | - | - |
 
 ## Projets
 
