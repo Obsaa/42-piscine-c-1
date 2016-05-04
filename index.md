@@ -2,7 +2,7 @@
 layout: base
 ---
 
-## Jours
+## Daily
 
 | pdf | content | done | to do |
 |---   |---      |---   |---     |
