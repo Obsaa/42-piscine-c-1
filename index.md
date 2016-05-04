@@ -34,4 +34,4 @@ layout: base
 
 ## Annexes
 
-[Norme v1.8](norme42-v1.8.pdf)
+[Norme v1.8](pdfs/norme42-v1.8.pdf)
