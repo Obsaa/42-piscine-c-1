@@ -33,4 +33,5 @@ layout: base
 
 ## Miscallaneous
 
-[Norme v1.8](pdfs/norme42-v1.8.pdf)
+[Norme v1.8](pdfs/norme42-v1.8.pdf)  
+[Youtube playlist of course](https://www.youtube.com/watch?v=dm_ms3d5Jwc&list=PLIXVN1KHt2a7UuyDroq9QLJm0sMGfgDj8)  
