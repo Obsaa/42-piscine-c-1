@@ -14,8 +14,8 @@ layout: base
 | [05](pdfs/j05.pdf) | string stuff | 14/20 | strlcat, strlcpy... |
 | [06](pdfs/j06.pdf) | libft & argc/argv | 3/4 | sort **argv ascii-betically |
 | [07](pdfs/j07.pdf) | malloc | 5/7 | convert base |
-| [08](pdfs/j08.pdf) | preprocessor & structures | 2/5 | |
-| [09](pdfs/j09.pdf) | - | - | |
+| [08](pdfs/j08.pdf) | preprocessor & structures | 3/5 | |
+| [09](pdfs/j09/ex00.pdf) | - | - | |
 | [10](pdfs/j10.pdf) | - | - | |
 | [11](pdfs/j11.pdf) | - | - | |
 
