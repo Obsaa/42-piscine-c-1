@@ -22,7 +22,7 @@ layout: base
 ## Projects
 
 [Sastantua](pdfs/sastantua.pdf)  
-[Evalexpr](pdfs/evalepr.pdf)  
+[Evalexpr](pdfs/evalexpr.pdf)  
 [BSQ](pdfs/bsq.pdf)  
 
 ## Colles
