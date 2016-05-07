@@ -9,8 +9,8 @@ layout: base
 | [00](pdfs/j00.pdf) | shell | | |
 | [01](pdfs/j01.pdf) | shell | | |
 | [02](pdfs/j02.pdf) | first day of c | 7/7 | - |
-| [03](pdfs/j03.pdf) | pointers | 8/9 | list sorting |
-| [04](pdfs/j04.pdf) | algorithms | 6/9 | find next prime
+| [03](pdfs/j03.pdf) | pointers | 9/9 | - |
+| [04](pdfs/j04.pdf) | algorithms | 6/9 | find next prime |
 | [05](pdfs/j05.pdf) | string stuff | 14/20 | strlcat, strlcpy... |
 | [06](pdfs/j06.pdf) | libft & argc/argv | 3/4 | sort **argv ascii-betically |
 | [07](pdfs/j07.pdf) | malloc | 5/7 | convert base |
