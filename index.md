@@ -4,7 +4,7 @@ layout: base
 
 ## Daily
 
-| Daily | content | status | to do |
+| daily | content | status | to do |
 |---   |---      |---   |---     |
 | [00](pdfs/j00.pdf) | shell | | |
 | [01](pdfs/j01.pdf) | shell | | |
@@ -21,7 +21,9 @@ layout: base
 | [12](pdfs/j12.pdf) | - | - | |
 | [13](pdfs/j13.pdf) | - | - | |
 
-| Projects | status |
+## Projects
+
+| projects | status |
 |---       |--- |
 | [Sastantua](pdfs/sastantua.pdf) | almost done |
 | [Evalexpr](pdfs/evalexpr.pdf) | |
