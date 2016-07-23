@@ -17,7 +17,7 @@ layout: base
 | [08](pdfs/j08.pdf) | preprocessor & structures | 3/5 | |
 | [09](pdfs/j09/ex00.pdf) | 24 | 1/24 | |
 | [10](pdfs/j10.pdf) | makefile & functions ptrs | 5/9 | |
-| [11](pdfs/j11.pdf) | - | - | |
+| [11](pdfs/j11.pdf) | struct s_list | 0/17 | |
 | [12](pdfs/j12.pdf) | - | - | |
 | [13](pdfs/j13.pdf) | - | - | |
 
