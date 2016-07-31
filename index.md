@@ -16,7 +16,7 @@ layout: base
 | [07](pdfs/j07.pdf) | malloc | 5/7 | convert base |
 | [08](pdfs/j08.pdf) | preprocessor & structures | 3/5 | |
 | [09](pdfs/j09/ex00.pdf) | 24 | 1/24 | |
-| [10](pdfs/j10.pdf) | makefile & functions ptrs | 5/9 | |
+| [10](pdfs/j10.pdf) | makefile & functions ptrs | 5/9 | do operation |
 | [11](pdfs/j11.pdf) | struct s_list | 14/17 | ft_list_reverse_fun |
 | [12](pdfs/j12.pdf) | file handling | - | |
 | [13](pdfs/j13.pdf) | - | - | |
