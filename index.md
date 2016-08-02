@@ -6,8 +6,8 @@ layout: base
 
 | daily | content | status |
 |---   |---      |---   |
-| [00](pdfs/j00.pdf) | shell | |
-| [01](pdfs/j01.pdf) | shell | |
+| [00](pdfs/j00.pdf) | shell | 11/11 |
+| [01](pdfs/j01.pdf) | shell | 8/8 |
 | [02](pdfs/j02.pdf) | first day of c | 7/7 |
 | [03](pdfs/j03.pdf) | pointers | 9/9 |
 | [04](pdfs/j04.pdf) | algorithms | 9/9 |
