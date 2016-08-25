@@ -1,0 +1,5 @@
+Credentials cache: API:19184
+        Principal: jhalford@42.FR
+
+  Issued                Expires               Principal
+Aug  1 09:19:16 2016  Aug  1 19:19:16 2016  krbtgt/42.FR@42.FR
